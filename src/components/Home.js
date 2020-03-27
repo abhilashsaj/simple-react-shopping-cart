@@ -23,6 +23,7 @@ import { addToCart } from './actions/cartActions'
                             <p><b>Price: {item.price}$</b></p>
                         </div>
                  </div>
+
             )
         })
 
